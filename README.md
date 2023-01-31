@@ -8,7 +8,7 @@
 
 ##
 
-<h3>🧩Minhas Skils</h3>
+<h3>🧩Minhas Skills</h3>
 
 <h4><strong>Linguagens</strong> </h4>
 

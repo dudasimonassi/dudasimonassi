@@ -4,7 +4,7 @@
 
   <p>🎓   Estudando <strong>Ciências Exatas & Ciência da Computação</strong> na <a href= https://www2.ufjf.br/ufjf/ >Universidade Federal de Juiz de Fora </a>  </p>
   <p>💼   Em busca do primeiro emprego na área de <strong>tecnologia e desenvolvimento</strong> </p>
-  <p>🌱   Estudando <strong>JAVA & Análise de Dados</strong>  </p> 
+  <p>🌱   Estudando <strong>JAVA</strong>  </p> 
 
 ##
 

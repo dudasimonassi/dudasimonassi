@@ -30,18 +30,6 @@
  <figure> <img src= "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"> </figure> 
 
 </div>
-
- ##
-  
-<h3>💻Meu GitHub</h3>
-  
- <div class="MeuGit" style="display: inline_block">
-   
-   <figure > <img  width ="46%" src= "https://github-readme-stats.vercel.app/api?username=dudasimonassi&count_private=true&show_icons=true&theme=tokyonight" alt="Duda GitHub Star"> </figure>
-   
-   <figure> <img width ="35%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dudasimonassi&theme=tokyonight" alt="Linguages do GiitHub"> </figure> 
-   
- </div>
   
  ##
   

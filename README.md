@@ -3,7 +3,7 @@
 <h3>👩‍💻 Sobre mim</h3>
 
   <p>🎓   Estudando <strong>Ciências Exatas & Ciência da Computação</strong> na <a href= https://www2.ufjf.br/ufjf/ >Universidade Federal de Juiz de Fora </a>  </p>
-  <p>💼   No meu primeiro emprego na área de <strong>tecnologia e desenvolvimento</strong> </p>
+  <p>💼   Estagiária de desenvolvimento  </p>
   <p>🌱   Estudando <strong>JavaScript</strong>  </p> 
 
 ##

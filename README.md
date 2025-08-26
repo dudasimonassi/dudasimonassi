@@ -2,8 +2,8 @@
 
 <h3>👩‍💻 Sobre mim</h3>
 
-  <p>🎓   Estudando <strong>Ciências Exatas & Ciência da Computação</strong> na <a href= https://www2.ufjf.br/ufjf/ >Universidade Federal de Juiz de Fora </a>  </p>
-  <p>💼   Estagiária de desenvolvimento  </p>
+  <p>🎓   Formada em <strong>Ciências Exatas</strong> e graduanda em <strong>Ciência da Computação</strong> na <a href= https://www2.ufjf.br/ufjf/ >Universidade Federal de Juiz de Fora </a>  </p>
+  <p>💼   Treinee de Engenharia de Software </p>
   <p>🌱   Estudando <strong>JavaScript</strong>  </p> 
 
 ##
@@ -13,21 +13,20 @@
 <h4><strong>Linguagens</strong> </h4>
 
 <div class ="Linguagens" style="display: inline_block"> 
-  
- <figure> <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </figure> 
- <figure> <img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> </figure>
- <figure> <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> </figure>
- <figure> <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> </figure> 
- <figure> <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"> </figure> 
 
-<h4><strong>Ferramentas de Desenvolvimento</strong> </h4>
+ <figure> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> </figure>
+ <figure> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaScript"> </figure>
+
+<h4><strong>Ferramentas e Tecnologias</strong> </h4>
 
 <div class ="Ferramentas" style="display: inline_block"> 
   
  <figure> <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"> </figure> 
  <figure> <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"> </figure>
- <figure> <img src= "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"> </figure>
- <figure> <img src= "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"> </figure> 
+ <figure> <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </figure>
+ <figure> <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </figure>
+ <figure> <img src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> </figure>
+ <figure> <img src= "https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch"> </figure>
 
 </div>
   
